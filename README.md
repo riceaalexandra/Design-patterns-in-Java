@@ -1,5 +1,5 @@
 # Design-patterns-in-Java
-This repository contains Java implementations of four commonly used design patterns, namely Singleton, Adapter, Observer, and Factory. <br> <br>
+This repository contains Java implementations of four commonly used design patterns, namely Singleton, Adapter, Observer and Factory. <br> <br>
 h2.1 Utilizați Singleton Pattern într-o clasă Config, pentru a accesa date dintr-un fișier
 (optional) JSON, considerat a fi de configurare. Fișierul conține o setare pentru string color în format
 #RRGGBB și int weight. Conținutul fișierului poate fi: {"color":"#F3AA34","weight": 23}. Clasa Config
